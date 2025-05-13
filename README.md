@@ -33,3 +33,7 @@ If you’re trying to listen on an iPhone and it doesn’t work, that’s why.
 3. Paste in the stream URL: http://radio.isaacpeterklein.com/radio.ogg
 
 *p.s. - if you have the VLC iOS app, this also works in CarPlay!*
+
+------------------------------------------------------------------
+<p align="right"><small>Originally published: 2025-05-13 &nbsp;|&nbsp; Last updated: 2025-05-13</small></p>
+
