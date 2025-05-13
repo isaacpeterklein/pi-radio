@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/piradio.png" alt="System diagram of Raspberry Pi radio setup" width="20%" />
+</p>
+
 # Raspberry Pi Radio — Streaming with LiquidSoap + DarkIce + Ogg Vorbis
 
 This is a small, self-hosted internet radio station I built using a Raspberry Pi 5. It uses [LiquidSoap](https://www.liquidsoap.info/) to manage audio playback and [DarkIce](http://www.darkice.org/) to stream it out in Ogg Vorbis format. You can listen using VLC or any media player that supports `.ogg` streams.
